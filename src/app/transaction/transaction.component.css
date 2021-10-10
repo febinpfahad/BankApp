@@ -1,0 +1,16 @@
+
+
+h1{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 100px;
+}
+table{
+    margin-left: 650px;
+    border: red;
+    border-style: double;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

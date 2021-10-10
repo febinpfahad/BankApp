@@ -1,0 +1,14 @@
+
+.lgn{
+    height: 300px;
+    width: 350px;
+    background-color: cadetblue;
+}
+body{
+    /* background-image: url(./images/bnk_bkrnd.jpg); */
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+    color: red;
+}
